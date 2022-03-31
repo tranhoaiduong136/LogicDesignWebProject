@@ -1,8 +1,13 @@
 # LogicDesignWebProject 
 ## I.*Introduction*:
-Nowadays,MIPS has become an powerful language that support the student to interact with Computer Architecture.
-Therefore,we have made an website in order to help students understanding deeper about this subject.
-## II.*Preview the project* : <br/>
+Nowadays,MIPS has become an powerful language that support the student to interact with Computer Architecture.<br />
+Therefore,we have made an website in order to help students understanding deeper about this subject. <br />
+## II.*Contributors* :
+Web design: Le Nguyen Thao Vy
+C++ developers: [Le Nguyen Tan Loc](https://github.com/leloc0609)
+C++ and Database developers: [Tran Hoai Duong](https://github.com/tranhoaiduong136)
+
+## III.*Preview the project* : <br/>
 There are 2 ways to see our project:<br />
 ### Preview online without technical installation
 We have hosted it online by using the hosting page [000webhost](https://vn.000webhost.com/).<br/>
@@ -15,7 +20,7 @@ After that, you can watch this video : [HOW TO USE XAMPP](https://www.youtube.co
 > After this part, if you want to check our database, you can go to the phpMyAdmin to check it <br/>
 > If you don't know where it is, just check this [video](https://www.youtube.com/watch?v=GvXLUJAQwu4)
 > 
-## III.*What technologies this website use*:
+## IV.*What technologies this website use*:
 ### Frontend:
 In this part,we have used HTML,CSS and Javascript to code the frontend.<br />
 ### Backend:
@@ -23,7 +28,7 @@ We have used C++ to code the backend file and PHP to make iteraction between fro
 ### Virtual host: 
  XAMPP can be helpful <br />
 
-##  IV.*Functions*:
+##  V.*Functions*:
 There are 3 main functions you can make use of :<br />
 First, user can track down and see the list of books which we have prepared for studing and external research.<br />
 <img src = https://user-images.githubusercontent.com/60745952/161093697-67b75be1-d311-4929-9a6e-1be6becea06e.png  > <br />
