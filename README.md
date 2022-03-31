@@ -40,9 +40,9 @@ Thirdly, user can choose the [**MIPS Simulator**](https://mips4everyone.000webho
 | 2 | Machine Code to Assembly code |
 | 3 | Assembly code to Machine code |
 
->Because we have made the mistakes in coding C++ without considering the frameworks as well as the environment online , therefore, these 3 modes right now can only run remotely in your computer side. We have made video instructions about this
+>Because we have made the mistakes in coding C++ without considering the frameworks as well as the environment online , therefore, these 3 modes right now can only run remotely in your computer side. We have made video instructions about this problem.
 
->There are also videos we have made so that can help you easier going through our website <br /> 
+>There are also videos we have made so that can help you easier going through our website. <br /> 
 
 >Because we don't have much experience in using PHP to communicate with backend storage so that we have put those HTML into PHP files which can cause difficult for future updates. <br />
 
