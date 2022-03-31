@@ -1,0 +1,7 @@
+addi $t0,$zero,10
+addi $t1,$zero,8
+Label:
+addi $t0,$t0,-1
+beq $t0,$t1,Exit
+j Label
+Exit:
