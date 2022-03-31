@@ -3,7 +3,7 @@
 Nowadays,MIPS has become an powerful language that support the student to interact with Computer Architecture.<br />
 Therefore,we have made an website in order to help students understanding deeper about this subject. <br />
 ## II.*Contributors* :
-Web design: Nguyen Le Thao Vy <br />
+Web design: [Nguyen Le Thao Vy](https://github.com/vy-nguyenlethao0510) <br />
 C++ developers: [Le Nguyen Tan Loc](https://github.com/leloc0609) <br />
 C++ and Database developers: [Tran Hoai Duong](https://github.com/tranhoaiduong136) <br />
 
